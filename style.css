@@ -1,0 +1,13 @@
+.text-editor-header{
+    background-color: rgb(179, 214, 245);
+}
+.card{
+    height: 400px;
+    box-shadow: -4px 10px 23px 2px rgba(92,85,85,0.67);
+}
+.content{
+    outline: none;
+  
+    
+
+}
